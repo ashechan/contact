@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ashechan.github.io/",
-  "name": "portfolio-project",
+  "homepage": "https://ashechan.github.io/contact/",
+  "name": "contact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
